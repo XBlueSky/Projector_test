@@ -1,6 +1,7 @@
 # Entity-Relationship Diagram  
 
 An ER model describes inter-related things of interest in a specific domain of knowledge.  
+
 And it's composed of entity types and specifies relationships that can exist between instances of those entity types.  
 
 [![entity-relationship-diagram](https://github.com/XBlueSky/Projector_test/blob/master/entity-relationship-diagram.png?raw=true)](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
@@ -60,7 +61,8 @@ Composite attributes are made of more than one simple attribute.
 
 ![Composite Attribute](https://github.com/XBlueSky/Projector_test/blob/master/er_attributes_composite.png)  
 ### ``` Derived attribute ```  
-Derived attributes are the attributes that do not exist in the physical database, 
+Derived attributes are the attributes that do not exist in the physical database,  
+
 but their values are derived from other attributes present in the database.  
 
 ![Derived attributey](https://github.com/XBlueSky/Projector_test/blob/master/er_attributes_derived.png)  
