@@ -43,3 +43,29 @@ The association among entities is called a relationship.
 ![Many-to-one](https://github.com/XBlueSky/Projector_test/blob/master/er_relation_many_to_one.png)  
 ### ``` Many-to-many ```  
 ![Many-to-many](https://github.com/XBlueSky/Projector_test/blob/master/er_relation_many_to_many.png)  
+  
+  ---  
+    
+## Attribute  
+Attributes are the properties of entities.  
+
+![Attributes](https://github.com/XBlueSky/Projector_test/blob/master/er_attributes.png) 
+*represented by means of ellipses.*  
+  
+### ``` Key Attribute  ```   
+Key Attribute can only identifies an entity in an entity set.
+
+### ``` Composite Attribute ```   
+Composite attributes are made of more than one simple attribute.  
+
+![Composite Attribute](https://github.com/XBlueSky/Projector_test/blob/master/er_attributes_composite.png)  
+### ``` Derived attribute ```  
+Derived attributes are the attributes that do not exist in the physical database, 
+but their values are derived from other attributes present in the database.  
+
+![Derived attributey](https://github.com/XBlueSky/Projector_test/blob/master/er_attributes_derived.png)  
+### ``` Multi-value attribute ```  
+Multi-value attributes may contain more than one values.  
+
+![Multi-value attribute](https://github.com/XBlueSky/Projector_test/blob/master/er_attributes_multivalued.png)  
+
